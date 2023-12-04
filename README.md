@@ -9,9 +9,10 @@ Our favorite books and music are parts of us - they are tools that we use to fee
 we understand... hence essentia. 
 
 Here are some of the steps in our progress so far: 
+<img width="1274" alt="Screenshot 2023-12-03 at 9 37 36 PM" src="https://github.com/damlaonder/essentia_books/assets/79882950/59058e54-480b-47af-a7d8-692565839f1b">
 <img width="948" alt="Screenshot 2023-12-03 at 9 35 16 PM" src="https://github.com/damlaonder/essentia_books/assets/79882950/b8bd1825-b72b-4f64-9faa-a6718887d45a">
 <img width="1440" alt="Screenshot 2023-12-03 at 9 36 06 PM" src="https://github.com/damlaonder/essentia_books/assets/79882950/9820f2b9-0d57-4c4b-92e6-d9c82af35130">
 <img width="1440" alt="Screenshot 2023-12-02 at 10 36 42 PM" src="https://github.com/damlaonder/essentia_books/assets/79882950/a58775ff-29d2-49ae-860e-e3f2159c1e08">
-<img width="1274" alt="Screenshot 2023-12-03 at 9 37 36 PM" src="https://github.com/damlaonder/essentia_books/assets/79882950/59058e54-480b-47af-a7d8-692565839f1b">
+
 
 After successfully creating our platform on small amounts of personal data, we hope to take it to the next step by using Cassandra and mass amounts of data. 
